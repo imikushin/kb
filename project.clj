@@ -1,4 +1,4 @@
-(defproject kb "0.1.0-SNAPSHOT"
+(defproject kbilling "0.1.0-SNAPSHOT"
   :description "KillingBilling"
   :url "http://killingbilling.com"
   :license {:name "Eclipse Public License"
